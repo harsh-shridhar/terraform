@@ -1,0 +1,16 @@
+**/*.terraform
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+*.auto.tfvars
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
